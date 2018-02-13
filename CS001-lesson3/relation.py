@@ -1,0 +1,6 @@
+print(5 > 3)
+print('5' < '3')
+print(5 >= 3)
+print('A' <= 'a')
+print(3 == 3.0)
+print('A' != 'a')

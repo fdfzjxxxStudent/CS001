@@ -1,0 +1,5 @@
+print("What's your name?")
+name = input()
+print(name,', your favorite color?' , sep='')
+color = input()
+print(name,' likes ',color,'.',sep='')
